@@ -1,0 +1,12 @@
+# Blender MTL File: 'world work.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.075838 0.384374 0.080925
+Ks 0.050000 0.050000 0.050000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
